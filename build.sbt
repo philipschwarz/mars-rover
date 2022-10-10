@@ -8,5 +8,5 @@ lazy val root = (project in file("."))
   )
 
 libraryDependencies ++= Seq(
-  "org.specs2" %% "specs2-core" % "5.0.0" //cross CrossVersion.for3Use2_13,
+  "org.specs2" %% "specs2-core" % "5.0.0"
 )
