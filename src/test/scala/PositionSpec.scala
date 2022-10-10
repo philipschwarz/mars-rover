@@ -1,8 +1,4 @@
-import Orientation.*
 import org.specs2.mutable.Specification
-import org.specs2.specification.Tables
-
-import scala.language.postfixOps
 
 class PositionSpec extends Specification:
 
