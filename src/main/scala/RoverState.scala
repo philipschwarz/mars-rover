@@ -1,0 +1,1 @@
+case class RoverState(position: Position, orientation: Orientation)
